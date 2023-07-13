@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics, Machine Learning and Data Science
 - 🌱 I’m currently learning more about the fields
 - 💞️ I’m looking to collaborate on interesting projects to further my knowledge in the domains
-
+- [Tableau](https://public.tableau.com/app/profile/tanya.mathias)
 
 <!---
 - 📫 How to reach me ...
